@@ -1,0 +1,14 @@
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\bin\Debug\net6.0\ukk_c#.exe
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\bin\Debug\net6.0\ukk_c#.deps.json
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\bin\Debug\net6.0\ukk_c#.runtimeconfig.json
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\bin\Debug\net6.0\ukk_c#.dll
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\bin\Debug\net6.0\ukk_c#.pdb
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\obj\Debug\net6.0\ukk_c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\obj\Debug\net6.0\ukk_c#.AssemblyInfoInputs.cache
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\obj\Debug\net6.0\ukk_c#.AssemblyInfo.cs
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\obj\Debug\net6.0\ukk_c#.csproj.CoreCompileInputs.cache
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\obj\Debug\net6.0\ukk_c#.dll
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\obj\Debug\net6.0\refint\ukk_c#.dll
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\obj\Debug\net6.0\ukk_c#.pdb
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\obj\Debug\net6.0\ukk_c#.genruntimeconfig.cache
+D:\latihan_ukk\x#\ukk_c#\ukk_c#\obj\Debug\net6.0\ref\ukk_c#.dll
